@@ -5,6 +5,7 @@
   "meanjs-version": "0.4.1",
   "author": "betodelrio@gmail.com",
   "license": "MIT",
+  "private": true,
   "engines": {
     "node": ">=0.10.28",
     "npm": ">=1.4.28"
