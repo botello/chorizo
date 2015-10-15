@@ -10,12 +10,8 @@ var mongoose = require('mongoose'),
  * Quiz Schema
  */
 var QuizSchema = new Schema({
-  created_at: {
-    type: Date
-  },
-  updated_at: {
-    type: Date
-  },
+  created_at: { type: Date },
+  updated_at: { type: Date },
   title: {
     type: String,
     default: '',
